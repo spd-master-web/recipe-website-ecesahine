@@ -1,4 +1,101 @@
 h1{
-    color: yellow;
-font-family: Arial, Helvetica, sans-serif;
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: monospace;
+}
+p{
+
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-family: monospace;
+    font-size: 16px;
+}
+   
+    
+
+#sutlac {
+    box-sizing: border-box ;
+    width: 21.5%;
+    margin-left: 12%;
+        float:left;
+        border: rgb(0, 87, 12);
+    border-width: 0.1cm;
+    border-style: dotted;
+}
+#lahmacun{
+
+    box-sizing: border-box ;
+width: 20%;
+        float:left;
+        margin-left: 5%;
+        border: rgb(0, 87, 12);
+        border-width: 0.1cm;
+        border-style: dotted;
+
+}
+#yoğurt{
+    box-sizing: border-box ;
+
+width: 20%;
+        float:left;
+        margin-left: 5%;
+        border: rgb(0, 87, 12);
+    border-width: 0.1cm;
+    border-style:dotted;
+}
+a:link{
+    color: rgb(56, 55, 47);
+}
+a:visited{
+    color: rgb(20, 30, 36);
+}
+a:hover{
+    color: rgb(0, 87, 12);
+}
+#picture{
+    box-sizing: border-box;
+    width: 40%;
+    float: left;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#brief{
+    box-sizing: border-box;
+    width: 100%;
+    font-size:18 px;
+    font-family: sans-serif;
+float:left;
+text-align:left;
+}
+#ingredients{
+
+  box-sizing: border-box;
+  text-align: left;
+  width: 40%;
+    font-size: 16px;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+float: left;
+margin-left: 5%;
+margin-top: 20%;
+padding-left: 5%;
+
+}
+
+h2{
+    text-align: center;
+   
+}
+#steps{
+    font-family: monospace;
+    box-sizing: border-box;
+    width: 70%;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    font-size: 16px;
+float: left;
+
 }
